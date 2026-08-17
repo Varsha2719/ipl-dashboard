@@ -60,7 +60,7 @@ ipl_dashboard/
 
 4. Open the link shown in the terminal (usually http://localhost:8501) in your browser.
 
----
+   **Live Demo:https://ipl-dashboard-htuykr5yfttuwgkhpvqq7p.streamlit.app
 
 ## 📊 Sample Insights
 
